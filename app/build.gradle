@@ -22,6 +22,10 @@ dependencies {
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:31.1-jre'
+    implementation 'org.jsoup:jsoup:1.16.1'
+    implementation 'com.squareup.okhttp3:okhttp:3.14.6'
+
+
 }
 
 application {
